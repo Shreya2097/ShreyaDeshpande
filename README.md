@@ -1,5 +1,5 @@
-# ShreyaDeshpande
-# Hi there! I'm Shreya Shriram Deshpande 👋  
+
+# Hi there! I'm Shreya Deshpande 👋  
 
 Full Stack Developer | Java & Spring Boot | React | Docker
 
